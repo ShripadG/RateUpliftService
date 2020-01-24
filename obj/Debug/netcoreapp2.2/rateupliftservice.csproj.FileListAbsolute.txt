@@ -1,0 +1,32 @@
+C:\Users\AnjaliGarg\Downloads\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\obj\Debug\netcoreapp2.2\rateupliftservice.csprojAssemblyReference.cache
+C:\Users\AnjaliGarg\Downloads\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\obj\Debug\netcoreapp2.2\rateupliftservice.AssemblyInfoInputs.cache
+C:\Users\AnjaliGarg\Downloads\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\obj\Debug\netcoreapp2.2\rateupliftservice.AssemblyInfo.cs
+C:\Users\AnjaliGarg\Downloads\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\web.config
+C:\Users\AnjaliGarg\Downloads\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\AnjaliGarg\Downloads\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\runtimeconfig.template.json
+C:\Users\AnjaliGarg\Downloads\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\vcap-local.json
+C:\Users\AnjaliGarg\Downloads\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\AnjaliGarg\Downloads\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\bulkdata\master.json
+C:\Users\AnjaliGarg\Downloads\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\bulkdata\master2.xlsx
+C:\Users\AnjaliGarg\Downloads\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\rateupliftservice.deps.json
+C:\Users\AnjaliGarg\Downloads\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\rateupliftservice.runtimeconfig.json
+C:\Users\AnjaliGarg\Downloads\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\rateupliftservice.runtimeconfig.dev.json
+C:\Users\AnjaliGarg\Downloads\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\rateupliftservice.dll
+C:\Users\AnjaliGarg\Downloads\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\rateupliftservice.pdb
+C:\Users\AnjaliGarg\Downloads\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\obj\Debug\netcoreapp2.2\rateupliftservice.dll
+C:\Users\AnjaliGarg\Downloads\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\obj\Debug\netcoreapp2.2\rateupliftservice.pdb
+C:\Users\AnjaliGarg\Downloads\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\rateupliftservice.xml
+C:\Employee master\24jan2020\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\bulkdata\master.json
+C:\Employee master\24jan2020\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\bulkdata\master2.xlsx
+C:\Employee master\24jan2020\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\rateupliftservice.deps.json
+C:\Employee master\24jan2020\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\rateupliftservice.runtimeconfig.json
+C:\Employee master\24jan2020\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\rateupliftservice.runtimeconfig.dev.json
+C:\Employee master\24jan2020\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\rateupliftservice.dll
+C:\Employee master\24jan2020\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\rateupliftservice.pdb
+C:\Employee master\24jan2020\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\bin\Debug\netcoreapp2.2\rateupliftservice.xml
+C:\Employee master\24jan2020\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\obj\Debug\netcoreapp2.2\rateupliftservice.csprojAssemblyReference.cache
+C:\Employee master\24jan2020\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\obj\Debug\netcoreapp2.2\rateupliftservice.csproj.CoreCompileInputs.cache
+C:\Employee master\24jan2020\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\obj\Debug\netcoreapp2.2\rateupliftservice.AssemblyInfoInputs.cache
+C:\Employee master\24jan2020\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\obj\Debug\netcoreapp2.2\rateupliftservice.AssemblyInfo.cs
+C:\Employee master\24jan2020\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\obj\Debug\netcoreapp2.2\rateupliftservice.dll
+C:\Employee master\24jan2020\rateupliftservice\rateupliftservice\rateupliftservice\src\rateupliftservice\obj\Debug\netcoreapp2.2\rateupliftservice.pdb
